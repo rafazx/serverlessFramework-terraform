@@ -1,0 +1,7 @@
+{
+    "requestContext" : {
+        "authorizer" : {
+            "role" :"ADMIN"
+        }
+    }
+}
